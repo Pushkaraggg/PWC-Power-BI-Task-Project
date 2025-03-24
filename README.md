@@ -9,3 +9,19 @@ The PwC Power BI Job Simulation is a virtual experience program designed to help
 -Calls by time
 -Average speed of answer
 -Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+
+
+### TASK-4
+### Calculating the following measures could help to define proper KPIs:
+
+# of men
+# of women
+# of leavers
+% employees promoted (FY21)
+% of women promoted
+% of hires men
+% of hires women
+% turnover 
+Average performance rating: men
+Average Performance rating: women
